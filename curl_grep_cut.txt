@@ -1,0 +1,33 @@
+
+   # CURL - O uso mais simples do curl é para mostrar o conteúdo de uma página.  
+Isto renderizará o código-fonte completo da página inicial do domínio. Se nenhum protocolo foi especificado, o curl interpretará como HTTP.
+
+A sintaxe do Curl é bastante simples:
+
+curl [options] [url]
+
+
+   # GREP - Ele procura por padrões especificados pelo usuário dentro de arquivos de texto. 
+Em outras palavras, você pode pesquisar por palavras ou padrões e a linha ou linhas que serão exibidas.
+
+A sintaxe do Comando Grep ao realizar uma busca fica assim:
+
+grep [opções] padrão [ARQUIVO]
+
+grep – a instrução de comando.
+[opções] – modificadores do comando.
+padrão – o que está sendo pesquisado.
+[ARQUIVO] – o arquivo em que a pesquisa está sendo realizada.
+
+
+   # CUT - Este comando seleciona partes de um arquivo e exibe o resultado na saída padrão.
+
+A sintaxe do comando cut quando realizado:
+
+cut [opções] [arquivo]
+
+-d [caractere] : determina qual será o caractere delimitador de campos a ser utilizado no lugar do delimitador padrão, o TAB.
+
+** Todos esses comandos podem ser combinados com outros comandos assim como o -d do cut.
+
+ o d do -d é de delimitador, que determina as fronteiras ou os limites de alguma coisa.
